@@ -17,5 +17,4 @@ elif imc > 24.9 and imc <= 29.9:
     print("Peso superior al normal")
 else:
     print("Obesidad")
-    rgjgksdfjglkfg
     """
