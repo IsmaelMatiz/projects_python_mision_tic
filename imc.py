@@ -1,3 +1,6 @@
+import _tkinter as tk
+ventana = tk.Tk()
+"""
 print("dime tu estatura en metros y peso en kilos ")
 peso = 0
 altura = 0.00
@@ -14,3 +17,5 @@ elif imc > 24.9 and imc <= 29.9:
     print("Peso superior al normal")
 else:
     print("Obesidad")
+    rgjgksdfjglkfg
+    """

@@ -68,7 +68,6 @@ if play == " ":
         #Juego en si
         pause = True#Arranca el tiempo
         print("empezo a correr el tiempo")
-        print("Los numeros random son: ", randoms[0],randoms[1],randoms[2])
         #-----------pedir los numeros del usuario--------------------
         while again != 3 and count_trys != 4:
             count_trys += 1
